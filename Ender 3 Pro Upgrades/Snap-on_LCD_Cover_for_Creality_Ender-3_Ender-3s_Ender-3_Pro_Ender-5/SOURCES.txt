@@ -1,0 +1,4 @@
+Sources for Snap-on LCD Cover for Creality Ender-3/Ender-3s/Ender-3 Pro/Ender-5
+
+Parametric Hinge (http://www.thingiverse.com/thing:2187167)
+Creality logo (http://www.thingiverse.com/thing:3634150)
